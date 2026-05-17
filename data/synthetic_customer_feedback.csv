@@ -1,0 +1,301 @@
+Conversation ID,Conversation Participant type,Conversation Message Text,translated text,NPS score,Language,Devices used,Inserted On,Expected_Sentiment_For_Demo
+CONV-100001,Supplier,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",8,Malay,Web,2026-03-24,Positive
+CONV-100002,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,5,English,Email,2026-01-22,Positive
+CONV-100003,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Chat Widget,2026-01-21,Positive
+CONV-100004,Customer,[system note removed] The conversation was about general product availability.,[system note removed] The conversation was about general product availability.,0,English,Email,2026-02-28,Neutral
+CONV-100005,Agent,[system note removed] I need more information before making a decision.,[system note removed] I need more information before making a decision.,10,English,Email,2026-02-24,Neutral
+CONV-100006,Customer,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,9,Tagalog,Mobile App,2026-02-08,Negative
+CONV-100007,Traveler,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,7,English,Web,2026-02-22,Positive
+CONV-100008,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,8,Malay,Email,2026-03-19,Positive
+CONV-100009,Agent,The conversation was about general product availability.,The conversation was about general product availability.,8,English,Web,2026-01-04,Neutral
+CONV-100010,Supplier,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",9,Spanish,Chat Widget,2026-01-14,Positive
+CONV-100011,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,7,English,Phone,2026-03-21,Negative
+CONV-100012,Customer,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,7,Arabic,Chat Widget,2026-02-10,Negative
+CONV-100013,Agent,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,0,English,Mobile App,2026-01-08,Positive
+CONV-100014,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,8,Tagalog,Mobile App,2026-01-05,Positive
+CONV-100015,Customer,"[system note removed] This is disappointing, I already contacted support many times.","[system note removed] This is disappointing, I already contacted support many times.",10,Thai,Chat Widget,2026-02-03,Negative
+CONV-100016,Agent,"[system note removed] Great user service, I appreciate the quick follow up.","[system note removed] Great customer service, I appreciate the quick follow up.",8,Tagalog,Chat Widget,2026-03-27,Positive
+CONV-100017,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",2,Tagalog,Mobile App,2026-01-05,Negative
+CONV-100018,Customer,I would like to check the status of my request.,I would like to check the status of my request.,7,English,Web,2026-02-11,Neutral
+CONV-100019,Agent,[system note removed] The conversation was about general product availability.,[system note removed] The conversation was about general product availability.,9,English,Phone,2026-01-04,Neutral
+CONV-100020,Agent,[system note removed] The user was unhappy about the delay and lack of clarity.,[system note removed] The customer was unhappy about the delay and lack of clarity.,6,Chinese,Chat Widget,2026-01-13,Negative
+CONV-100021,Agent,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,3,Spanish,Phone,2026-03-03,Positive
+CONV-100022,Customer,The conversation was about general product availability.,The conversation was about general product availability.,9,English,Email,2026-03-30,Neutral
+CONV-100023,Agent,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,4,English,Chat Widget,2026-03-18,Positive
+CONV-100024,Agent,[system note removed] I am frustrated because no one followed up on my issue.,[system note removed] I am frustrated because no one followed up on my issue.,7,English,Phone,2026-02-20,Negative
+CONV-100025,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,3,English,Mobile App,2026-02-21,Positive
+CONV-100026,Supplier,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",10,English,Web,2026-01-03,Positive
+CONV-100027,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",0,Malay,Web,2026-02-23,Positive
+CONV-100028,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",8,Tagalog,Phone,2026-02-13,Positive
+CONV-100029,Customer,[system note removed] The user asked for an update about the account.,[system note removed] The customer asked for an update about the account.,7,English,Email,2026-01-17,Neutral
+CONV-100030,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",8,Malay,Email,2026-01-16,Negative
+CONV-100031,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",3,English,Chat Widget,2026-02-28,Negative
+CONV-100032,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",9,English,Chat Widget,2026-02-02,Positive
+CONV-100033,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,Tagalog,Mobile App,2026-03-30,Neutral
+CONV-100034,Customer,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,8,English,Web,2026-03-01,Positive
+CONV-100035,Supplier,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",10,Malay,Email,2026-01-09,Positive
+CONV-100036,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,9,Thai,Mobile App,2026-01-24,Positive
+CONV-100037,Traveler,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",9,Tagalog,Email,2026-03-30,Negative
+CONV-100038,Agent,I would like to check the status of my request.,I would like to check the status of my request.,3,English,Email,2026-03-21,Neutral
+CONV-100039,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,0,English,Chat Widget,2026-01-08,Negative
+CONV-100040,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,7,English,Email,2026-03-27,Negative
+CONV-100041,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Email,2026-01-27,Positive
+CONV-100042,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,7,English,Phone,2026-03-02,Negative
+CONV-100043,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,8,English,Chat Widget,2026-01-30,Neutral
+CONV-100044,Traveler,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,6,English,Phone,2026-02-15,Negative
+CONV-100045,Supplier,[system note removed] The user was unhappy about the delay and lack of clarity.,[system note removed] The customer was unhappy about the delay and lack of clarity.,9,English,Phone,2026-02-01,Negative
+CONV-100046,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,3,Malay,Web,2026-03-08,Negative
+CONV-100047,Agent,The conversation was about general product availability.,The conversation was about general product availability.,8,Arabic,Web,2026-01-27,Neutral
+CONV-100048,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,9,English,Phone,2026-02-11,Positive
+CONV-100049,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,9,Japanese,Web,2026-01-07,Negative
+CONV-100050,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,8,Tagalog,Chat Widget,2026-03-28,Neutral
+CONV-100051,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,6,Tagalog,Email,2026-01-25,Positive
+CONV-100052,Supplier,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",9,Thai,Mobile App,2026-02-21,Positive
+CONV-100053,Agent,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",7,English,Phone,2026-03-01,Positive
+CONV-100054,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,1,English,Chat Widget,2026-02-16,Positive
+CONV-100055,Agent,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,2,Arabic,Web,2026-01-30,Negative
+CONV-100056,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",6,Tagalog,Web,2026-03-31,Positive
+CONV-100057,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,8,English,Web,2026-01-01,Negative
+CONV-100058,Agent,The conversation was about general product availability.,The conversation was about general product availability.,1,English,Phone,2026-01-01,Neutral
+CONV-100059,Customer,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,7,Malay,Email,2026-03-17,Negative
+CONV-100060,Agent,I would like to check the status of my request.,I would like to check the status of my request.,2,English,Chat Widget,2026-03-10,Neutral
+CONV-100061,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,10,English,Web,2026-03-31,Positive
+CONV-100062,Customer,[system note removed] The user asked for an update about the account.,[system note removed] The customer asked for an update about the account.,3,English,Web,2026-01-10,Neutral
+CONV-100063,Customer,[system note removed] The user was unhappy about the delay and lack of clarity.,[system note removed] The customer was unhappy about the delay and lack of clarity.,4,English,Email,2026-02-27,Negative
+CONV-100064,Customer,I would like to check the status of my request.,I would like to check the status of my request.,8,Malay,Web,2026-02-01,Neutral
+CONV-100065,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",6,Malay,Mobile App,2026-03-02,Negative
+CONV-100066,Traveler,Can you confirm the next step for my case?,Can you confirm the next step for my case?,6,Arabic,Web,2026-02-12,Neutral
+CONV-100067,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",2,English,Email,2026-02-04,Positive
+CONV-100068,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,6,Tagalog,Web,2026-01-07,Positive
+CONV-100069,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,8,Thai,Chat Widget,2026-03-30,Positive
+CONV-100070,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,3,Chinese,Email,2026-02-18,Negative
+CONV-100071,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,4,Malay,Phone,2026-01-12,Negative
+CONV-100072,Customer,The conversation was about general product availability.,The conversation was about general product availability.,8,English,Mobile App,2026-03-03,Neutral
+CONV-100073,Agent,The conversation was about general product availability.,The conversation was about general product availability.,5,English,Chat Widget,2026-01-12,Neutral
+CONV-100074,Customer,[system note removed] I am frustrated because no one followed up on my issue.,[system note removed] I am frustrated because no one followed up on my issue.,5,Spanish,Chat Widget,2026-03-24,Negative
+CONV-100075,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,1,Malay,Chat Widget,2026-03-26,Neutral
+CONV-100076,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",9,English,Web,2026-02-27,Negative
+CONV-100077,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,6,Japanese,Email,2026-03-16,Positive
+CONV-100078,Agent,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",8,Malay,Phone,2026-01-07,Positive
+CONV-100079,Agent,I need more information before making a decision.,I need more information before making a decision.,6,Japanese,Web,2026-01-05,Neutral
+CONV-100080,Agent,The conversation was about general product availability.,The conversation was about general product availability.,7,Thai,Chat Widget,2026-01-17,Neutral
+CONV-100081,Supplier,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,8,English,Email,2026-03-02,Negative
+CONV-100082,Customer,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,4,English,Email,2026-02-14,Positive
+CONV-100083,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,0,English,Phone,2026-02-08,Positive
+CONV-100084,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,10,English,Mobile App,2026-01-25,Negative
+CONV-100085,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,10,English,Phone,2026-03-02,Negative
+CONV-100086,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,Japanese,Chat Widget,2026-01-19,Positive
+CONV-100087,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,8,Tagalog,Mobile App,2026-02-23,Negative
+CONV-100088,Traveler,The user asked for an update about the account.,The customer asked for an update about the account.,0,English,Chat Widget,2026-01-24,Neutral
+CONV-100089,Agent,The conversation was about general product availability.,The conversation was about general product availability.,3,English,Web,2026-03-01,Neutral
+CONV-100090,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,10,Arabic,Mobile App,2026-03-14,Neutral
+CONV-100091,Customer,[system note removed] The process was smooth and the representative was professional.,[system note removed] The process was smooth and the representative was professional.,8,English,Email,2026-01-06,Positive
+CONV-100092,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,8,English,Web,2026-01-05,Negative
+CONV-100093,Agent,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,9,Arabic,Mobile App,2026-01-11,Positive
+CONV-100094,Agent,I would like to check the status of my request.,I would like to check the status of my request.,10,Thai,Phone,2026-02-02,Neutral
+CONV-100095,Agent,I would like to check the status of my request.,I would like to check the status of my request.,4,English,Chat Widget,2026-03-22,Neutral
+CONV-100096,Customer,I would like to check the status of my request.,I would like to check the status of my request.,10,Malay,Phone,2026-02-06,Neutral
+CONV-100097,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",4,English,Mobile App,2026-02-20,Negative
+CONV-100098,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,9,Chinese,Web,2026-03-13,Positive
+CONV-100099,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,6,Thai,Web,2026-01-12,Positive
+CONV-100100,Supplier,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,1,Chinese,Mobile App,2026-02-16,Negative
+CONV-100101,Customer,I need more information before making a decision.,I need more information before making a decision.,8,Chinese,Chat Widget,2026-02-07,Neutral
+CONV-100102,Customer,I would like to check the status of my request.,I would like to check the status of my request.,7,English,Web,2026-02-21,Neutral
+CONV-100103,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,10,English,Web,2026-02-20,Neutral
+CONV-100104,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,6,Thai,Mobile App,2026-03-25,Negative
+CONV-100105,Supplier,I would like to check the status of my request.,I would like to check the status of my request.,7,English,Email,2026-02-12,Neutral
+CONV-100106,Agent,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",2,English,Email,2026-01-16,Positive
+CONV-100107,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,5,Japanese,Email,2026-01-27,Neutral
+CONV-100108,Agent,I would like to check the status of my request.,I would like to check the status of my request.,3,English,Phone,2026-03-23,Neutral
+CONV-100109,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,1,English,Mobile App,2026-01-12,Positive
+CONV-100110,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,7,Tagalog,Mobile App,2026-01-26,Positive
+CONV-100111,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",1,Thai,Phone,2026-03-22,Negative
+CONV-100112,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",8,English,Web,2026-01-28,Positive
+CONV-100113,Customer,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,8,English,Email,2026-01-07,Positive
+CONV-100114,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,8,English,Web,2026-02-07,Negative
+CONV-100115,Agent,I would like to check the status of my request.,I would like to check the status of my request.,4,English,Web,2026-02-08,Neutral
+CONV-100116,Agent,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,5,English,Mobile App,2026-01-13,Positive
+CONV-100117,Customer,I need more information before making a decision.,I need more information before making a decision.,9,English,Chat Widget,2026-03-27,Neutral
+CONV-100118,Customer,I need more information before making a decision.,I need more information before making a decision.,6,English,Mobile App,2026-01-06,Neutral
+CONV-100119,Customer,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,4,English,Phone,2026-02-02,Negative
+CONV-100120,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",6,English,Email,2026-03-03,Positive
+CONV-100121,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",9,English,Email,2026-01-31,Positive
+CONV-100122,Supplier,The conversation was about general product availability.,The conversation was about general product availability.,2,English,Chat Widget,2026-03-16,Neutral
+CONV-100123,Customer,[system note removed] The user was unhappy about the delay and lack of clarity.,[system note removed] The customer was unhappy about the delay and lack of clarity.,4,English,Email,2026-03-03,Negative
+CONV-100124,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",7,English,Chat Widget,2026-01-05,Negative
+CONV-100125,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",6,English,Mobile App,2026-01-12,Positive
+CONV-100126,Customer,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,5,Malay,Email,2026-03-18,Positive
+CONV-100127,Agent,[system note removed] The user asked for an update about the account.,[system note removed] The customer asked for an update about the account.,5,English,Web,2026-02-13,Neutral
+CONV-100128,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,1,English,Mobile App,2026-01-17,Positive
+CONV-100129,Customer,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,7,Chinese,Mobile App,2026-03-10,Positive
+CONV-100130,Supplier,[system note removed] I had a poor experience and the issue remains unresolved.,[system note removed] I had a poor experience and the issue remains unresolved.,2,Tagalog,Mobile App,2026-02-03,Negative
+CONV-100131,Agent,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,8,Malay,Phone,2026-03-13,Positive
+CONV-100132,Customer,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,9,Chinese,Phone,2026-01-05,Negative
+CONV-100133,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Web,2026-03-30,Positive
+CONV-100134,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,8,Japanese,Phone,2026-02-07,Negative
+CONV-100135,Customer,[system note removed] The conversation was about general product availability.,[system note removed] The conversation was about general product availability.,7,English,Web,2026-03-19,Neutral
+CONV-100136,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",7,English,Email,2026-01-07,Positive
+CONV-100137,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,3,Thai,Mobile App,2026-01-27,Negative
+CONV-100138,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",5,English,Mobile App,2026-03-09,Negative
+CONV-100139,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,English,Phone,2026-01-31,Neutral
+CONV-100140,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,7,English,Phone,2026-01-29,Positive
+CONV-100141,Customer,"[system note removed] Great user service, I appreciate the quick follow up.","[system note removed] Great customer service, I appreciate the quick follow up.",8,Malay,Email,2026-02-05,Positive
+CONV-100142,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,5,English,Web,2026-02-07,Neutral
+CONV-100143,Customer,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",5,Malay,Web,2026-01-13,Positive
+CONV-100144,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,4,Tagalog,Email,2026-03-17,Positive
+CONV-100145,Traveler,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",9,English,Web,2026-01-31,Positive
+CONV-100146,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,8,Spanish,Email,2026-01-23,Neutral
+CONV-100147,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,3,English,Mobile App,2026-01-01,Positive
+CONV-100148,Customer,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,7,English,Mobile App,2026-02-22,Negative
+CONV-100149,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,0,English,Chat Widget,2026-01-25,Positive
+CONV-100150,Traveler,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,6,English,Email,2026-01-17,Negative
+CONV-100151,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,10,English,Mobile App,2026-03-12,Neutral
+CONV-100152,Agent,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,5,Chinese,Email,2026-01-22,Positive
+CONV-100153,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,7,Arabic,Mobile App,2026-02-18,Positive
+CONV-100154,Customer,I would like to check the status of my request.,I would like to check the status of my request.,7,English,Mobile App,2026-01-13,Neutral
+CONV-100155,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,English,Phone,2026-02-18,Neutral
+CONV-100156,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",7,English,Email,2026-02-16,Positive
+CONV-100157,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,7,English,Email,2026-03-04,Neutral
+CONV-100158,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,1,Chinese,Web,2026-03-15,Positive
+CONV-100159,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",9,Arabic,Web,2026-01-07,Negative
+CONV-100160,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,4,English,Email,2026-03-13,Neutral
+CONV-100161,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,3,Tagalog,Web,2026-02-04,Positive
+CONV-100162,Customer,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",9,Thai,Chat Widget,2026-02-06,Positive
+CONV-100163,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",5,English,Web,2026-01-07,Positive
+CONV-100164,Customer,[system note removed] I am frustrated because no one followed up on my issue.,[system note removed] I am frustrated because no one followed up on my issue.,2,Thai,Phone,2026-03-01,Negative
+CONV-100165,Traveler,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,8,English,Web,2026-03-08,Negative
+CONV-100166,Agent,[system note removed] The user asked for an update about the account.,[system note removed] The customer asked for an update about the account.,8,English,Mobile App,2026-02-22,Neutral
+CONV-100167,Traveler,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",8,English,Web,2026-01-30,Positive
+CONV-100168,Customer,I need more information before making a decision.,I need more information before making a decision.,9,English,Email,2026-03-22,Neutral
+CONV-100169,Customer,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",8,English,Email,2026-01-04,Positive
+CONV-100170,Traveler,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,8,Tagalog,Web,2026-03-26,Positive
+CONV-100171,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",1,English,Web,2026-03-17,Negative
+CONV-100172,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,2,Japanese,Email,2026-02-09,Positive
+CONV-100173,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",7,Malay,Mobile App,2026-01-26,Positive
+CONV-100174,Customer,I would like to check the status of my request.,I would like to check the status of my request.,6,English,Email,2026-03-06,Neutral
+CONV-100175,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,4,English,Email,2026-02-05,Positive
+CONV-100176,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,7,English,Phone,2026-02-25,Negative
+CONV-100177,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,4,Malay,Email,2026-03-22,Positive
+CONV-100178,Customer,I need more information before making a decision.,I need more information before making a decision.,5,Chinese,Phone,2026-03-14,Neutral
+CONV-100179,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,7,Tagalog,Web,2026-01-25,Positive
+CONV-100180,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,9,Tagalog,Web,2026-01-12,Positive
+CONV-100181,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Web,2026-02-26,Positive
+CONV-100182,Agent,[system note removed] I would like to check the status of my request.,[system note removed] I would like to check the status of my request.,7,Thai,Phone,2026-03-22,Neutral
+CONV-100183,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,9,English,Mobile App,2026-01-12,Neutral
+CONV-100184,Supplier,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",10,English,Web,2026-01-16,Positive
+CONV-100185,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,7,Japanese,Phone,2026-01-07,Negative
+CONV-100186,Traveler,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",10,Spanish,Web,2026-02-08,Positive
+CONV-100187,Customer,I would like to check the status of my request.,I would like to check the status of my request.,8,Tagalog,Email,2026-03-01,Neutral
+CONV-100188,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,7,English,Chat Widget,2026-02-08,Neutral
+CONV-100189,Customer,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",9,English,Web,2026-02-02,Positive
+CONV-100190,Customer,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,4,English,Web,2026-02-03,Negative
+CONV-100191,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,7,Spanish,Email,2026-02-08,Positive
+CONV-100192,Agent,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,1,English,Chat Widget,2026-02-26,Positive
+CONV-100193,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,6,English,Chat Widget,2026-01-05,Neutral
+CONV-100194,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,6,English,Web,2026-03-09,Negative
+CONV-100195,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,4,Japanese,Mobile App,2026-01-15,Negative
+CONV-100196,Customer,[system note removed] I would like to check the status of my request.,[system note removed] I would like to check the status of my request.,4,Spanish,Phone,2026-02-12,Neutral
+CONV-100197,Supplier,[system note removed] The user asked for an update about the account.,[system note removed] The customer asked for an update about the account.,9,Malay,Phone,2026-01-25,Neutral
+CONV-100198,Agent,"[system note removed] This is disappointing, I already contacted support many times.","[system note removed] This is disappointing, I already contacted support many times.",6,Thai,Phone,2026-03-15,Negative
+CONV-100199,Agent,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,0,Spanish,Phone,2026-01-05,Positive
+CONV-100200,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,7,Malay,Mobile App,2026-03-02,Neutral
+CONV-100201,Customer,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,7,Arabic,Email,2026-02-01,Positive
+CONV-100202,Customer,The conversation was about general product availability.,The conversation was about general product availability.,8,English,Chat Widget,2026-01-14,Neutral
+CONV-100203,Customer,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,6,English,Phone,2026-01-09,Negative
+CONV-100204,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",0,English,Mobile App,2026-01-05,Positive
+CONV-100205,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,4,English,Email,2026-01-05,Negative
+CONV-100206,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Chat Widget,2026-03-10,Positive
+CONV-100207,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,9,English,Email,2026-02-27,Negative
+CONV-100208,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,7,Thai,Mobile App,2026-01-06,Neutral
+CONV-100209,Customer,I would like to check the status of my request.,I would like to check the status of my request.,4,English,Mobile App,2026-01-13,Neutral
+CONV-100210,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",8,Malay,Chat Widget,2026-01-07,Negative
+CONV-100211,Supplier,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,6,Thai,Web,2026-01-10,Negative
+CONV-100212,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",10,English,Web,2026-03-19,Negative
+CONV-100213,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,3,English,Email,2026-01-17,Negative
+CONV-100214,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",0,Chinese,Email,2026-01-30,Positive
+CONV-100215,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,9,English,Phone,2026-01-22,Positive
+CONV-100216,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",1,English,Mobile App,2026-01-12,Negative
+CONV-100217,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",5,Malay,Email,2026-03-23,Positive
+CONV-100218,Supplier,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,10,Tagalog,Email,2026-02-21,Negative
+CONV-100219,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,0,English,Email,2026-03-16,Negative
+CONV-100220,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",4,Arabic,Mobile App,2026-01-13,Negative
+CONV-100221,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,9,English,Web,2026-02-16,Negative
+CONV-100222,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,4,Spanish,Chat Widget,2026-02-25,Negative
+CONV-100223,Traveler,Can you confirm the next step for my case?,Can you confirm the next step for my case?,6,Malay,Email,2026-02-26,Neutral
+CONV-100224,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,5,Tagalog,Web,2026-03-02,Neutral
+CONV-100225,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,8,Malay,Chat Widget,2026-03-21,Positive
+CONV-100226,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,3,English,Email,2026-02-15,Neutral
+CONV-100227,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,English,Chat Widget,2026-01-03,Neutral
+CONV-100228,Customer,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,0,Malay,Chat Widget,2026-03-25,Positive
+CONV-100229,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,7,English,Phone,2026-01-02,Neutral
+CONV-100230,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,6,English,Web,2026-03-05,Negative
+CONV-100231,Supplier,I would like to check the status of my request.,I would like to check the status of my request.,8,Tagalog,Mobile App,2026-02-02,Neutral
+CONV-100232,Traveler,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,8,Tagalog,Mobile App,2026-01-17,Negative
+CONV-100233,Customer,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",0,English,Chat Widget,2026-01-20,Positive
+CONV-100234,Customer,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,10,English,Mobile App,2026-02-02,Positive
+CONV-100235,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,9,English,Web,2026-02-07,Negative
+CONV-100236,Customer,I would like to check the status of my request.,I would like to check the status of my request.,9,English,Chat Widget,2026-02-18,Neutral
+CONV-100237,Agent,[system note removed] The response was slow and did not solve the problem.,[system note removed] The response was slow and did not solve the problem.,9,Malay,Mobile App,2026-02-01,Negative
+CONV-100238,Traveler,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,10,Malay,Chat Widget,2026-03-03,Positive
+CONV-100239,Customer,The conversation was about general product availability.,The conversation was about general product availability.,8,Malay,Web,2026-01-22,Neutral
+CONV-100240,Customer,I would like to check the status of my request.,I would like to check the status of my request.,7,Tagalog,Email,2026-03-23,Neutral
+CONV-100241,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",3,Thai,Web,2026-01-19,Positive
+CONV-100242,Agent,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,3,Chinese,Email,2026-02-13,Negative
+CONV-100243,Customer,I need more information before making a decision.,I need more information before making a decision.,4,Arabic,Mobile App,2026-02-28,Neutral
+CONV-100244,Agent,The conversation was about general product availability.,The conversation was about general product availability.,8,English,Mobile App,2026-01-07,Neutral
+CONV-100245,Customer,The conversation was about general product availability.,The conversation was about general product availability.,8,Tagalog,Chat Widget,2026-02-06,Neutral
+CONV-100246,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,10,English,Mobile App,2026-02-20,Positive
+CONV-100247,Customer,I need more information before making a decision.,I need more information before making a decision.,8,English,Web,2026-03-20,Neutral
+CONV-100248,Customer,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,4,Malay,Phone,2026-01-12,Negative
+CONV-100249,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,9,English,Web,2026-01-08,Neutral
+CONV-100250,Customer,The conversation was about general product availability.,The conversation was about general product availability.,8,English,Web,2026-02-06,Neutral
+CONV-100251,Customer,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,4,Thai,Mobile App,2026-03-25,Negative
+CONV-100252,Agent,I would like to check the status of my request.,I would like to check the status of my request.,6,Arabic,Web,2026-02-04,Neutral
+CONV-100253,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,English,Phone,2026-01-23,Neutral
+CONV-100254,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,1,English,Web,2026-01-10,Neutral
+CONV-100255,Agent,[system note removed] I would like to check the status of my request.,[system note removed] I would like to check the status of my request.,6,Malay,Chat Widget,2026-01-01,Neutral
+CONV-100256,Agent,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,6,Malay,Phone,2026-03-17,Positive
+CONV-100257,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,Malay,Chat Widget,2026-03-02,Neutral
+CONV-100258,Supplier,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",2,English,Web,2026-01-29,Positive
+CONV-100259,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,3,English,Mobile App,2026-02-20,Neutral
+CONV-100260,Agent,"[system note removed] Great user service, I appreciate the quick follow up.","[system note removed] Great customer service, I appreciate the quick follow up.",10,Arabic,Email,2026-03-30,Positive
+CONV-100261,Customer,I need more information before making a decision.,I need more information before making a decision.,6,English,Web,2026-01-23,Neutral
+CONV-100262,Agent,The conversation was about general product availability.,The conversation was about general product availability.,0,English,Web,2026-01-08,Neutral
+CONV-100263,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,8,English,Phone,2026-03-27,Negative
+CONV-100264,Customer,The issue is fixed now and I am satisfied with the support.,The issue is fixed now and I am satisfied with the support.,10,English,Web,2026-03-23,Positive
+CONV-100265,Customer,I would like to check the status of my request.,I would like to check the status of my request.,7,English,Mobile App,2026-02-15,Neutral
+CONV-100266,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",10,Chinese,Phone,2026-03-31,Negative
+CONV-100267,Agent,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",7,English,Mobile App,2026-02-10,Positive
+CONV-100268,Customer,I had a poor experience and the issue remains unresolved.,I had a poor experience and the issue remains unresolved.,1,English,Email,2026-03-09,Negative
+CONV-100269,Customer,Can you confirm the next step for my case?,Can you confirm the next step for my case?,10,English,Web,2026-03-23,Neutral
+CONV-100270,Agent,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",9,English,Mobile App,2026-03-26,Negative
+CONV-100271,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",6,Tagalog,Chat Widget,2026-03-30,Positive
+CONV-100272,Customer,I need more information before making a decision.,I need more information before making a decision.,6,English,Email,2026-03-13,Neutral
+CONV-100273,Customer,I need more information before making a decision.,I need more information before making a decision.,6,English,Web,2026-03-13,Neutral
+CONV-100274,Customer,The conversation was about general product availability.,The conversation was about general product availability.,0,English,Chat Widget,2026-01-05,Neutral
+CONV-100275,Customer,I need more information before making a decision.,I need more information before making a decision.,7,Malay,Web,2026-02-12,Neutral
+CONV-100276,Agent,"[system note removed] Thank you for the fast support, the agent solved my issue clearly.","[system note removed] Thank you for the fast support, the agent solved my issue clearly.",0,Malay,Chat Widget,2026-01-15,Positive
+CONV-100277,Traveler,"[system note removed] Great user service, I appreciate the quick follow up.","[system note removed] Great customer service, I appreciate the quick follow up.",1,Spanish,Email,2026-02-03,Positive
+CONV-100278,Customer,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",7,Tagalog,Phone,2026-01-28,Positive
+CONV-100279,Agent,The user asked for an update about the account.,The customer asked for an update about the account.,8,Tagalog,Mobile App,2026-03-18,Neutral
+CONV-100280,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,3,Tagalog,Web,2026-02-08,Neutral
+CONV-100281,Customer,The user asked for an update about the account.,The customer asked for an update about the account.,2,Malay,Web,2026-02-25,Neutral
+CONV-100282,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,9,Malay,Phone,2026-02-16,Negative
+CONV-100283,Customer,The user was unhappy about the delay and lack of clarity.,The customer was unhappy about the delay and lack of clarity.,9,Japanese,Mobile App,2026-01-26,Negative
+CONV-100284,Customer,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",6,Thai,Mobile App,2026-01-26,Positive
+CONV-100285,Agent,[system note removed] The issue is fixed now and I am satisfied with the support.,[system note removed] The issue is fixed now and I am satisfied with the support.,8,Thai,Web,2026-03-30,Positive
+CONV-100286,Customer,The process was smooth and the representative was professional.,The process was smooth and the representative was professional.,6,Malay,Mobile App,2026-02-02,Positive
+CONV-100287,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",0,Malay,Chat Widget,2026-03-12,Positive
+CONV-100288,Agent,I would like to check the status of my request.,I would like to check the status of my request.,6,Malay,Mobile App,2026-01-02,Neutral
+CONV-100289,Customer,I am happy with the service and the reply was very helpful.,I am happy with the service and the reply was very helpful.,8,English,Phone,2026-02-08,Positive
+CONV-100290,Agent,I am frustrated because no one followed up on my issue.,I am frustrated because no one followed up on my issue.,5,Chinese,Chat Widget,2026-03-31,Negative
+CONV-100291,Traveler,[system note removed] I am happy with the service and the reply was very helpful.,[system note removed] I am happy with the service and the reply was very helpful.,9,English,Phone,2026-02-05,Positive
+CONV-100292,Agent,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",4,English,Chat Widget,2026-01-13,Positive
+CONV-100293,Agent,Can you confirm the next step for my case?,Can you confirm the next step for my case?,9,English,Phone,2026-01-08,Neutral
+CONV-100294,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",7,English,Email,2026-03-27,Negative
+CONV-100295,Supplier,Can you confirm the next step for my case?,Can you confirm the next step for my case?,8,Malay,Web,2026-03-28,Neutral
+CONV-100296,Agent,I would like to check the status of my request.,I would like to check the status of my request.,7,Spanish,Phone,2026-01-31,Neutral
+CONV-100297,Agent,The response was slow and did not solve the problem.,The response was slow and did not solve the problem.,6,English,Chat Widget,2026-01-17,Negative
+CONV-100298,Supplier,"Thank you for the fast support, the agent solved my issue clearly.","Thank you for the fast support, the agent solved my issue clearly.",6,English,Chat Widget,2026-01-05,Positive
+CONV-100299,Customer,"This is disappointing, I already contacted support many times.","This is disappointing, I already contacted support many times.",4,Tagalog,Chat Widget,2026-03-11,Negative
+CONV-100300,Customer,"Great user service, I appreciate the quick follow up.","Great customer service, I appreciate the quick follow up.",9,Malay,Chat Widget,2026-02-07,Positive
