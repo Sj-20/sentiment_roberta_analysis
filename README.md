@@ -82,6 +82,3 @@ streamlit run app.py
    - Main file path: `app.py`
 5. Deploy.
 
-## Privacy note
-
-Do not upload confidential files to GitHub. Use only synthetic, anonymized, or public datasets.
